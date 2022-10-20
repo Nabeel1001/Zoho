@@ -1,0 +1,94 @@
+﻿body{
+    margin: 20px;
+    padding: 50px;
+}
+
+.head {
+    margin: 8px;
+    padding: 19px;
+}
+
+.save {
+    padding: 5px;
+    background-color: #0366fc;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.save1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #2a80fa;
+}
+
+.save:hover {
+    background-color: #2a80fa;
+    color: white;
+}
+
+
+
+.paymentbox {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.amount_box {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.freq_box {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.start_box {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.end_date {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.status_box {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.disc_box {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+    height: 90px;
+}
+
+.r_notes {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+    height: 90px;
+}
+
+.remail {
+    padding: 0px 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.text-right{
+    text-align: right;
+}
